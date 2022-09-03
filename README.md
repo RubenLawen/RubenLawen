@@ -19,6 +19,7 @@
     <br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img alt="Electron JS" src="https://img.shields.io/badge/Electron-0881d1?style=for-the-badge&logo=electron&logoColor=white"/>
   <br><br>
 Front-end developer and future web fullstack
 </p>
