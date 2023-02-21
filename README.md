@@ -8,7 +8,7 @@ npm i lawen
 
 -----------------
 
-![stats](https://github-readme-stats.vercel.app/api?username=RubenLawen&show_icons=true&theme=radical)
+![stats](https://github-readme-stats.vercel.app/api?username=RubenLawen&show_icons=true&theme=blueberry)
 
 ## | Knowledge |
 
