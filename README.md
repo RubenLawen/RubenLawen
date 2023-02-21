@@ -9,6 +9,8 @@ npm i lawen
 -----------------
 
 ![stats](https://github-readme-stats.vercel.app/api?username=RubenLawen&show_icons=true&theme=blueberry)
+<br>
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=RubenLawen&repo=Function-who-doesn-t-exist&theme=blueberry)](https://github.com/RubenLawen/Function-who-doesn-t-exist)
 
 ## | Knowledge |
 
