@@ -1,11 +1,11 @@
 # Ruben Lawen
 
 ![views](https://komarev.com/ghpvc/?username=RubenLawen)
-<!---
+
 ```bash
-npm i lawen
+npm i php-mvc-template
 ```
--->
+
 -----------------
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=RubenLawen&show_icons=true&include_all_commits=true&theme=blueberry)
